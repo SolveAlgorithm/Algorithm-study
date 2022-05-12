@@ -13,16 +13,18 @@ ex
 
 방법1
 
-```let numbers = [ 1,2,3,4,5];
-let newNumbers = numbers.map(number =>number *2);
+```js
+let numbers = [1, 2, 3, 4, 5];
+let newNumbers = numbers.map((number) => number * 2);
 console.log(newNumbers);
 ```
 
 방법2
 
-```let numbers = [ 1,2,3,4,5];
-let newNumbers = numbers.map(function(number){
-  return number*2;
+```js
+let numbers = [1, 2, 3, 4, 5];
+let newNumbers = numbers.map(function (number) {
+  return number * 2;
 });
 console.log(newNumbers);
 ```
