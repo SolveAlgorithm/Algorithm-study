@@ -2,8 +2,8 @@
 
 문자열을 반복할때 사용
 
-```string.repeat( count )
-
+```js
+string.repeat(count);
 ```
 
 ex

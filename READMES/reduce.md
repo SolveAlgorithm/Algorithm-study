@@ -11,7 +11,8 @@
 
 ex
 
-```let temp = [1, 2, 3];
+```js
+let temp = [1, 2, 3];
 // 누적값, 현재값, 인덱스
 result = temp.reduce((acc, cur, index) => {
   console.log(acc, cur, index);

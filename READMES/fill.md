@@ -2,8 +2,8 @@
 
 배열을 같은 값으로 채울떄 사용
 
-```arr.fill(value[, start[, end]])
-
+```js
+    arr.fill(value[, start[, end]])
 ```
 
 ---
