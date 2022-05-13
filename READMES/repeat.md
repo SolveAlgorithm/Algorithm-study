@@ -8,7 +8,8 @@ string.repeat(count);
 
 ex
 
-```let a = 'abc'.repeat( 2 );
+```js
+let a = "abc".repeat(2);
 console.log(a);
 ```
 
