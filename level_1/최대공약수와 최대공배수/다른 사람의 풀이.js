@@ -5,8 +5,6 @@ function solution(n, m) {
   }
   return [m, nb / m];
 }
-solution(2, 6);
-
 //true/false 조건을 (r=a%b) 로 판별했다 0이 나오면 for문이 종료되게 된다.
 //ex
 // a= 3 b=4
