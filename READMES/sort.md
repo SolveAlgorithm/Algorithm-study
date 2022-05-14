@@ -9,6 +9,8 @@ ex
 let numbers = [1, 10, 2, 20, 3, 30];
 ```
 
+---
+
 - 오름차순
 
 ```js
@@ -16,6 +18,8 @@ numbers.sort((next, prev) => next - prev);
 ```
 
 result : [1,2,3,10,20,30]
+
+---
 
 - 내림차순
 
