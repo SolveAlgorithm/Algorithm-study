@@ -1,0 +1,1 @@
+let solution=(s1,s2)=>s1.map(e=>s2.includes(e)).reduce((a,b)=>a+b)+0;
