@@ -9,3 +9,5 @@ function solution(left, right) {
     }
     return answer;
 }
+
+// 제곱근이 정수면, 약수의 갯수가 홀수다
