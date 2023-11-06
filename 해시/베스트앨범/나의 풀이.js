@@ -68,7 +68,6 @@ function solution(genres, plays) {
       }
     });
   }
-  console.log(genres_cnt);
   const answer = [];
   for (let i = 0; i < genres_array.length; i++) {
     for (let j = 0; j < genres_cnt[genres_array[i][0]].length; j++) {
